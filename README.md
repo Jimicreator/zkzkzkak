@@ -59,6 +59,9 @@ thanks to the translators.
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
 
+## Deploy To Heroku</h4>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jimicreator/zkzkzkak)
+
 
 ## ☁️ <a name="self_host"></a>Self Host
 
